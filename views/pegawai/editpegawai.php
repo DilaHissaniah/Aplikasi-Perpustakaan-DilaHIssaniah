@@ -6,7 +6,7 @@
     $show   = $db->query($sql);
     $hasil  = mysqli_fetch_assoc($show);
 
-    $jk = $hasil['jenis_kelamin'];
+    $jk = $hasil['jenis_kelamin']; 
 ?>
 <div class="container-fluid">
     <div class="row">

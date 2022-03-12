@@ -5,7 +5,7 @@
             <div class="card shadow mb-4">
                 <div class="card-body">
                     <div class="table-responsive">
-                        <h4>Tambah Data Pegawai</h4>
+                        <h4>Tambah Data Pegawai</h4> 
                         <br>
                         <form action="model/pegawai/prosesaddpegawai.php" method="POST">
                             <table class="table">
