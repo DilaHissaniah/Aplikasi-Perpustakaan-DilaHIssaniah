@@ -1,5 +1,5 @@
 # Aplikasi-Perpustakaan-DilaHIssaniah
-untuk melihat aplikasi perpustakaan smks nahdlatul ulama harus login terlebih dahulu ,dan Memasukkan email dan password
+untuk melihat aplikasi perpustakaan smks nahdlatul ulama harus login terlebih dahulu , masukkan email dan password
 ![image](https://user-images.githubusercontent.com/97661073/162889558-2f7d6678-c410-4b39-856c-30bc4c3dd900.png)
 
 Sesudah berhasil login maka akan muncul semua tabel contoh di bawah adalah tabel user
@@ -12,6 +12,7 @@ Ada juga tabel buku di sini kalian bisa melihat buku yang kalian akan pinjam sem
 ![image](https://user-images.githubusercontent.com/97661073/162889651-e1873c2f-e9e3-4569-8486-7e6b567e4816.png)
 
 Lalu sesudah meminjam buku maka nama kalian akan terinput di tabel anggota dan kalau sudah mengembalikan maka Namanya akan terhapus
+
 ![image](https://user-images.githubusercontent.com/97661073/162889680-b28d618b-25c1-45e4-84e7-52ac3f5a7161.png)
 
 Dan ini tabel transaksi di tabel ini akan tahu siapa yang meminjam siapa yang sudah mengembalikan dan ada juga tanggal pinjam dan kembalinya
