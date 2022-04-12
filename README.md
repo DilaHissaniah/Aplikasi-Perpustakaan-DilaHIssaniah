@@ -1,5 +1,5 @@
 # Aplikasi-Perpustakaan-DilaHIssaniah
-untuk melihat aplikasi perpustakaan smks nahdlatul ulama harus login terlebih dahulu , masukkan email dan password
+untuk melihat aplikasi perpustakaan smks nahdlatul ulama silahkan login terlebih dahulu , masukkan email dan password
 ![image](https://user-images.githubusercontent.com/97661073/162889558-2f7d6678-c410-4b39-856c-30bc4c3dd900.png)
 
 Sesudah berhasil login maka akan muncul semua tabel contoh di bawah adalah tabel user
