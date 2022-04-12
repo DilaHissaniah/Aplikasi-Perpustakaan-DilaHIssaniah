@@ -16,6 +16,7 @@ Lalu sesudah meminjam buku maka nama kalian akan terinput di tabel anggota dan k
 ![image](https://user-images.githubusercontent.com/97661073/162889680-b28d618b-25c1-45e4-84e7-52ac3f5a7161.png)
 
 Dan ini tabel transaksi di tabel ini akan tahu siapa yang meminjam siapa yang sudah mengembalikan dan ada juga tanggal pinjam dan kembalinya
+
 ![image](https://user-images.githubusercontent.com/97661073/162889713-eeffc710-7e82-4c39-ad95-40b173c7f696.png)
 
 Di dalam semua tabel itu bisa tambah data 
