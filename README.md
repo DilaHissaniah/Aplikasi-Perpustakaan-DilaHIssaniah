@@ -11,8 +11,7 @@ Selain tabel user ada juga tabel pegawai,di tabel pegawai ini ada nama pegawai,j
 Ada juga tabel buku di sini kalian bisa melihat buku yang kalian akan pinjam semua macam buku ada di sini!!
 ![image](https://user-images.githubusercontent.com/97661073/162889651-e1873c2f-e9e3-4569-8486-7e6b567e4816.png)
 
-Lalu sesudah meminjam buku maka nama kalian akan terinput di tabel anggota dan kalau sudah mengembalikan maka Namanya akan terhapus
-
+Lalu sesudah meminjam buku maka nama kalian akan terinput di tabel anggota 
 ![image](https://user-images.githubusercontent.com/97661073/162889680-b28d618b-25c1-45e4-84e7-52ac3f5a7161.png)
 
 Dan ini tabel transaksi di tabel ini akan tahu siapa yang meminjam siapa yang sudah mengembalikan dan ada juga tanggal pinjam dan kembalinya
